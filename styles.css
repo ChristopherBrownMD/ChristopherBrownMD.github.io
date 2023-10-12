@@ -1,14 +1,14 @@
 body{
     background-color: beige;
     font-style: normal;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Times New Roman';
     font-size: 100%;
 }
 header{
     font-size: 125%;
 }
 .nav-links{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman';
 }
 .nav-logo{
     filter: grayscale(50%);
@@ -16,10 +16,10 @@ header{
     height: 200px;
 }
 .profile-text{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia;
     font-size: 75%;
 }
 .main{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 75%;
+    font-family: Georgia;
+    font-size: 100%;
 }
